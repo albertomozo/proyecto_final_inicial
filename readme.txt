@@ -5,6 +5,6 @@ Hay que generar una apykey en la pagina web https://www.themoviedb.org/ e inclui
 
 # Toda la documentación para usar estos archivos la encontraras en 
 
-https://github.com/albertomozo/proyectofinal
+https://github.com/albertomozo/proyectofinal2023
 
 # autor : Alberto Mozo (2022)
