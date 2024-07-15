@@ -1,3 +1,4 @@
+<!-- viene del enlace editar de 07-peliculas_genero_estado_02.php -->$_POST
 <!DOCTYPE html>
 <?php
 include ("00-conexion_peliculas.php");

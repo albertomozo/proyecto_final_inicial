@@ -1,3 +1,4 @@
+<!-- lista todas las peliculas con generos  lista_peliculas.php web privada -->
 <?php
 include ("00-conexion_peliculas.php");
 //echo $query = "select * from peliculas  where estado = 'A'";

@@ -1,3 +1,4 @@
+<!-- activar/desactivar peliculas  enlaza con _02_AD.php -->
 <?php
 include ("00-conexion_peliculas.php");
 echo $query = "select * from peliculas";

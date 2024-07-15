@@ -1,3 +1,4 @@
+<!-- index.php para web publica -->
 <?php
 include ("00-conexion_peliculas.php");
 include ("00-funciones.php");

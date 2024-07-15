@@ -1,3 +1,4 @@
+<!-- invocado en07-peliculas_genero_estado_01.php -->
 <?php
 include ("00-conexion_peliculas.php");
 $id = $_GET['id'];

@@ -1,3 +1,4 @@
+<!-- activar/desactivar peliculas  enlaza con _01_A.php y _01_D.php  -->
 <?php
 include ("00-conexion_peliculas.php");
 echo $query = "select * from peliculas";

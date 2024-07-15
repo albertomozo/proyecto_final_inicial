@@ -12,7 +12,7 @@ else {
     //echo 'Conexión Error';
 }
 /* valores tmdb themovie.org */
-$apikey='<< ir a https://www.themoviedb.org/ >>';
+$apikey='98fee347b91da83932ea8b9daa0edece';
 $tmdb_ruta_poster = 'https://image.tmdb.org/t/p/w300/'; // carpetada donde estan las imagenes de poster 
 
 ?>

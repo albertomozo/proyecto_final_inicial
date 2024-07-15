@@ -1,3 +1,4 @@
+<!-- POST  de 10_peliculas-editar.php -->
 <!DOCTYPE html>
 <?php
 include ("00-conexion_peliculas.php");
