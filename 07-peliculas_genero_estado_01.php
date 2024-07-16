@@ -33,7 +33,7 @@ if(mysqli_num_rows($resultado)!=0){ ?>
                     $resultado2 = mysqli_query($con,$query2);
                     while($fila2=mysqli_fetch_array($resultado2)){
                         //echo $fila2['generop'] . ' ' ;
-                        echo $fila2['genero'] . ' ' .  $fila2['id'] . ' | ' ;
+                        echo $fila2['genero'] . ' ' .  $fila2['generoid'] . ' | ' ;
                     }
                  ?>
                 </td>

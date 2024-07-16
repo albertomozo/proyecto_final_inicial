@@ -7,7 +7,9 @@ if ($_POST){
     $resultado = file_get_contents($url);
     $items = json_decode($resultado, true);
     //print_r($items);
-    echo "paginas " . $items['page'];
+    echo "pagina " . $items['page'] .'<br>';
+    echo "total_pages " . $items['total_pages'].'<br>';
+    echo "total_results " . $items['total_results'].'<br>';
     echo '<hr>';
     $pelis = $items['results'];
     print_r($pelis);
