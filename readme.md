@@ -110,18 +110,6 @@ Diferentes versiones de la obtención de datos de la tabla votaciones usando las
 echo $query = "select peliculas.titulo,votaciones.elemento_votado, AVG(votaciones.valoracion) AS media from votaciones,peliculas group by votaciones.elemento_votado order and peliculas.id = votaciones.elemento_votado order by AVG(votaciones.valoracion) DESC";
 ```
 
-## 12-peliculas_votaciones_02.php
-
-Acceso estadistiscas INE
-
-
-
-
-
-
-
-
-
 # Toda la documentación para usar estos archivos la encontraras en 
 
 https://github.com/albertomozo/proyectofinal2023
